@@ -1,0 +1,6 @@
+[wrap-file]
+directory = GSL-2.0.0
+
+source_url = https://github.com/Microsoft/GSL/archive/v2.0.0.zip
+source_filename = GSL-2.0.0.zip
+source_hash = 837f35a9f00b2543bada8ae680e5c56af84709d36d48cdc3ed8db69df043f5b2
